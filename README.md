@@ -73,7 +73,7 @@
 ### 🚀 Open for Collaboration
 Let's build something incredible together! Feel free to reach out for collaboration opportunities, discussions, or just to say hi!
 
-- 💞️ I’m looking to collaborate on Absolutely anything that would Teach me something new or Expand my Knowledge.
+- 🤝 I’m looking to collaborate on Absolutely anything that would Teach me something new or Expand my Knowledge.
 
 <h1 align="center">✨ Thanks For Viewing ✨</h1>
 
