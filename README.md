@@ -1,5 +1,10 @@
+<img align="right" height="450px" src="https://i.redd.it/inspired-by-a-meme-i-saw-v0-81a1fac03tza1.png?s=41ee741c58881dfca49bcbd674280b05e5c69461" />
+
 # 👋 Hi, I’m @JeetChauhan17
-  
+- I ❤️ building terminal apps, web apps, and APIs.
+- I use arch btw.
+
+  ## My Interests
 - 🚀 Aspiring polymath in the realms of web development, AI, data science, UI/UX Design, and Ethical Hacking.
 - 👨‍💻 Here's a glimpse of my expertise:
 - **Web Development**: Crafting seamless and interactive web experiences using pioneering technologies.
