@@ -1,6 +1,6 @@
 <img align="right" height="450px" src="https://i.redd.it/inspired-by-a-meme-i-saw-v0-81a1fac03tza1.png?s=41ee741c58881dfca49bcbd674280b05e5c69461" />
 
-# 👋 Hello, I’m Jeet Chauhan
+# 👋 Hi, I’m Jeet Chauhan
 **A Passionate Software Developer | Aspiring Polymath | Tech Enthusiast**
 
 - I ❤️ building terminal apps, web apps, and APIs.
