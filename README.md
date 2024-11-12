@@ -1,18 +1,21 @@
 <img align="right" height="450px" src="https://i.redd.it/inspired-by-a-meme-i-saw-v0-81a1fac03tza1.png?s=41ee741c58881dfca49bcbd674280b05e5c69461" />
 
-# 👋 Hi, I’m @JeetChauhan17
+# 👋 Hello, I’m Jeet Chauhan
+**A Passionate Software Developer | Aspiring Polymath | Tech Enthusiast**
+
 - I ❤️ building terminal apps, web apps, and APIs.
 - I use arch btw.
 
-  ## My Interests
-- 🚀 Aspiring polymath in the realms of web development, AI, data science, UI/UX Design, and Ethical Hacking.
-- 👨‍💻 Here's a glimpse of my expertise:
-- **Web Development**: Crafting seamless and interactive web experiences using pioneering technologies.
-- **AI Enthusiast**: Passionate about creating and learnin about Intelligent systems that learn and adapt.
-- **Data Science Maven**: Transforming raw data into meaningful insights to drive informed decisions.
-- **UI/UX Alchemist**: Infusing creativity into design for delightful user experiences.
-- **Ethical Hacking Apprentice**: Startin on a journey to enhance cybersecurity skills and contribute to a safer digital world.
-- 🌐 Explore my repos for a taste of my diverse projects and contributions!
+
+## 🌟 Key Highlights
+
+### 💡 Interests
+- **🚀 Web Development:** Building dynamic, responsive, and accessible websites with modern frameworks.
+- **🤖 AI & Machine Learning:** Diving into intelligent algorithms and systems for impactful applications.
+- **📊 Data Science:** Turning raw data into meaningful insights, empowering data-driven decisions.
+- **🎨 UI/UX Design:** Designing engaging and user-centered digital experiences.
+- **🔒 Cybersecurity Enthusiast:** Learning ethical hacking techniques to contribute to a safer digital world.
+
 
 ### 🛠️ Technologies & Tools
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,18 +74,35 @@
 
 
 
-### 📫 Let's Connect
+---
 
-- Twitter: [@JeetCha28962087](https://twitter.com/JeetCha28962087)(https://twitter.com/JeetCha28962087)
+## 📈 GitHub Stats
 
-### 🚀 Open for Collaboration
-Let's build something incredible together! Feel free to reach out for collaboration opportunities, discussions, or just to say hi!
+![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeetChauhan17&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetChauhan17&layout=compact&theme=radical)
 
-- 🤝 I’m looking to collaborate on Absolutely anything that would Teach me something new or Expand my Knowledge.
+---
 
-<h1 align="center">✨ Thanks For Viewing ✨</h1>
+## 📚 Recent Projects
 
-<!---
-JeetChauhan17/JeetChauhan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 1. **Space GitHub Clone**  
+   - **Tech Stack:** Node.js, React, AWS SDK, Backblaze B2  
+   - **Description:** A GitHub-inspired platform for space research data.
+
+### 2. **IoT-Based Smart Home System**  
+   - **Description:** IoT platform for remote monitoring and control.
+
+Explore more projects [here](https://github.com/JeetChauhan17?tab=repositories).
+
+---
+
+## 🤝 Connect & Collaborate
+
+- **Twitter:** [@JeetCha28962087](https://twitter.com/JeetCha28962087)
+- **LinkedIn:** [Jeet Chauhan](https://www.linkedin.com/in/jeet-chauhan-17)
+
+### 💬 Open for discussions, ideas, and potential collaborations. Let’s create something amazing together!
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! ✨</h3>
