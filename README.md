@@ -78,7 +78,7 @@
 
 ## 📚 Recent Projects
 
-### 1. **Space GitHub Clone**  
+### 1. **Space GitHub Clone** (Hackathon Project) 
    - **Tech Stack:** Node.js, React, AWS SDK, Backblaze B2  
    - **Description:** A GitHub-inspired platform for space research data.
 
