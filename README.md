@@ -76,13 +76,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeetChauhan17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetChauhan17&layout=compact&theme=radical)
-
----
-
 ## 📚 Recent Projects
 
 ### 1. **Space GitHub Clone**  
