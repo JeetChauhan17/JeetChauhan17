@@ -82,8 +82,8 @@
    - **Tech Stack:** Node.js, React, AWS SDK, Backblaze B2  
    - **Description:** A GitHub-inspired platform for space research data.
 
-### 2. **IoT-Based Smart Home System**  
-   - **Description:** IoT platform for remote monitoring and control.
+### 2. **JYRO - A Compliler written in C++**
+   - **Description:** JYRO is a compiler written in C++ to execute .jj files. (__BLAZING FAST__) 
 
 Explore more projects [here](https://github.com/JeetChauhan17?tab=repositories).
 
