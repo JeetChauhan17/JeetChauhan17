@@ -3,6 +3,12 @@
 # 👋 Hi, I’m Jeet Chauhan
 **A Passionate Software Developer | Entrepreneur | Linux Enthusiast**
 
+[![GitHub followers](https://img.shields.io/github/followers/JeetChauhan17?label=Follow&style=social)](https://github.com/JeetChauhan17)
+[![Profile Views](https://komarev.com/ghpvc/?username=JeetChauhan17&color=blueviolet)](https://github.com/JeetChauhan17)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JeetChauhan17)
+![Lines of code](https://img.shields.io/badge/Lines_of_code-500k+-blueviolet?logo=codewars)
+
+
 - I ❤️ building terminal apps, web apps, and APIs.
 - I use arch btw.
 
@@ -76,16 +82,42 @@
 
 ---
 
-## 📚 Recent Projects
+## 📊 GitHub Stats & Activity
 
-### 1. **SpaceHub - A Space GitHub Clone** (Hackathon Project) 
-   - **Tech Stack:** Node.js, React, AWS SDK, Backblaze B2  
-   - **Description:** A GitHub-inspired platform for space research data.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeetChauhan17&show_icons=true&theme=tokyonight" alt="Jeet's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeetChauhan17&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetChauhan17&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeetChauhan17&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetChauhan17&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeetChauhan17&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeetChauhan17&theme=tokyonight" alt="Most Commit Language"/>
+</p>
 
-### 2. **JYRO - A Compliler written in C++**
-   - **Description:** JYRO is a compiler written in C++ to execute .jj files. (__BLAZING FAST__) 
+---
+## 🌟 Notable Projects
 
-Explore more projects [here](https://github.com/JeetChauhan17?tab=repositories).
+- **[BitLift](https://github.com/JeetChauhan17/BitLift)** <br>
+  <sub>BitLift is a self-hosted deployment platform inspired by Vercel. It automates the deployment of GitHub repositories using Redis queues and workers. Supports static frontend hosting, background job processing, and cloud storage – all built with TypeScript, React, Redis, and Backblaze B2. </sub>
+
+- **[JYRO Compiler](https://github.com/JeetChauhan17/JYRO-Compiler)** <br>
+  <sub>A custom compiler built in C++ for the .jj language, featuring tokenizing, parsing, assembly generation, and linking via GNU ld.</sub>
+
+- **SpaceHub (GitHub for Space Research)** <br>
+  <sub>Hackathon project: collaborative version control and upload platform for researchers, with Backblaze B2 integration.</sub>
+
+- **SHHTUDY** <br>
+  <sub>Productivity tool (in development) for students: timer, leaderboard, and live sync for collaborative studying.</sub>
+
+
+---
+
+<details>
+  <summary>📚 <b>GitHub Profile Trophies</b></summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JeetChauhan17&theme=tokyonight&margin-w=15&margin-h=15"/>
+  </p>
+</details>
 
 ---
 
