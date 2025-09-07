@@ -3,10 +3,6 @@
 # 👋 Hi, I’m Jeet Chauhan
 **A Passionate Software Developer | Entrepreneur | Linux Enthusiast**
 
-[![GitHub followers](https://img.shields.io/github/followers/JeetChauhan17?label=Follow&style=social)](https://github.com/JeetChauhan17)
-[![Profile Views](https://komarev.com/ghpvc/?username=JeetChauhan17&color=blueviolet)](https://github.com/JeetChauhan17)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JeetChauhan17)
-![Lines of code](https://img.shields.io/badge/Lines_of_code-500k+-blueviolet?logo=codewars)
 
 
 - I ❤️ building terminal apps, web apps, and APIs.
