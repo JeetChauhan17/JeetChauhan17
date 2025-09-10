@@ -74,22 +74,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeetChauhan17&show_icons=true&theme=tokyonight" alt="Jeet's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeetChauhan17&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetChauhan17&theme=tokyo-night" alt="GitHub Activity Graph"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeetChauhan17&theme=tokyonight" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetChauhan17&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeetChauhan17&theme=tokyonight" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeetChauhan17&theme=tokyonight" alt="Most Commit Language"/>
-</p>
-
 ---
 ## 🌟 Notable Projects
 
